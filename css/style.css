@@ -1,0 +1,21 @@
+.navbar-brand a{
+    visibility: hidden;
+}
+
+.container {
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.container1,
+.container2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espacio entre las tarjetas */
+}
+
+.card {
+    margin-bottom: 20px; /* Espacio debajo de cada tarjeta */
+}
+
+
