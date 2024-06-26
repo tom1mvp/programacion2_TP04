@@ -1,4 +1,4 @@
-# READ ME Marquitos version's
+# READ ME 
 Lee atentamente este archivo ya que contiene las instrucciones sobre cómo usar el script script01, el cual posee la información necesaria para tu sistema de calificación.
 "document.addEventListener("DOMContentLoaded", function () {
   const stars = document.querySelectorAll(".fa-star"); // "fa-star" es la clase de mi icono estrella
